@@ -2,11 +2,12 @@
 
 This project demonastrates how to use the nice (my fav) flutter container widget called CustomScrollView. Use clone or download this starter kit for your project. 
 
-![Screenshot (236)](https://github.com/eliasdebelo/custom_scroll_view/assets/40690542/72281701-8f00-4aff-a284-1965b2dc18cd)
+![Screenshot (236)](https://github.com/eliasdebelo/custom_scroll/assets/40690542/eb3bad64-796f-4cb6-b32b-b26039104b1f)
 
 After scrolling
 
-![Screenshot (238)](https://github.com/eliasdebelo/custom_scroll_view/assets/40690542/96c3d64a-8651-47e3-90be-042428aa0146)
+![Screenshot (237)](https://github.com/eliasdebelo/custom_scroll/assets/40690542/7578b65c-1f9c-43b9-845a-ec4d4157740f)
+
 
 ## For More
 
